@@ -1,0 +1,38 @@
+[
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Yeah, that would definitely, that would definitely make that, that technical side of things a lot easier. So the only, the only problem again would be, let's say we, we, we, we decide to go this route given the, you know, the problem with rapid updates to back office. Right. Because other things are always holding it back. Do we have some sort of step where she can edit it in the short term? Like it automates the GL entries and then there's some sort of stop where she can check it before it gets exported. That way if she wants, if she needs to make changes, we can make changes on the next update. But she still has the ability to manually change the files before they get picked up. And then once we're pretty sure that there are no more issues after a month or two, then we can remove that option. I'm just wondering if. Because otherwise we're going to run into a situation where we never thought about this or this doesn't happen that often. But.",
+    "Start": 445845,
+    "End": 523574,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_445845_523574.wav",
+    "ExtractedSegmentName": "extracted_segment_A_445845_523574.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Well, that one's from Smart Stream. Those are those Smart Stream entries, and those come through as CB balance. They have the PQRT descriptions in there. Sometimes they'll come through with absolutely nothing. The line will just be blank. So then I have to go do a Smart Stream query and bring all those descriptions in so we have some real information in there. And then for the ones that come through mri, those. And the. For the HTM starts with H. That's a new MRI system. So everything came through MRI for that htn. Those are just easier with the invoice number, the description, vendor ID and vendor name. So I'm kind of going back and forth between Smart Stream, depending on the htn just so we have real information in the journal entry. Because I. Then I have to. Who knows what Paul's going to ask for in four years and we have to go back and look at that. So I want real information in there. So those in this one, column K is the Smart Stream description. Instead of CV balance that came through for the conversion, I'm using column K as the descriptions. I'm changing all of everything in column E. And those yellow lines there where it's 150 negative and then down on line 28 it's a 150 positive or 350 and 150. So those lines originate in the same account number and then they're being reclassed. So it looks like in column e it says March 2020. I reclassed those out because they were coded incorrectly. So I wouldn't want to include those lines. Or I. You. I currently don't. I delete those rows since they net zero.",
+    "Start": 702635,
+    "End": 830225,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_702635_830225.wav",
+    "ExtractedSegmentName": "extracted_segment_B_702635_830225.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "Yeah, a little bit of both. Otters want us to be, you know, as hands free as possible. Right. They, they want to remove the manipulation, any manipulation that we possibly have to do. So we need to see what those challenges are where you're having to copy, paste and create the journal entries or delete line items. They don't want that. But on the other side of things, I know that I'm going to start getting pressure from Paul and Denise to do it anyway. So it just.",
+    "Start": 39295,
+    "End": 62819,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_39295_62819.wav",
+    "ExtractedSegmentName": "extracted_segment_C_39295_62819.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "Well. Right. I mean, so we have a process that we develop when we convert it to mri. And we really have two separate processes. We've got one where accountants can put journal entry files into a certain folder on a shared. Into a certain shared folder. And then we have a process that runs every two minutes. It looks at all the available files to be processed and it does some validations and checking. And if everything checks out, it directly inserts that stuff into MRI's journal table into an unposted Status and then the accountant can just verify one last time and post it. We have a second process for people, for processes that still use the legacy Smart stream accounting fields. And all that does is it pretty much does the same thing, but it converts the format of that journal entry file from the Smart stream format into the MRI format and then it pushes it to the next folder, which is the mri. The MRI folder. So Jill, is this, Are these journal entries in the MRI format or the.",
+    "Start": 328305,
+    "End": 403377,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_328305_403377.wav",
+    "ExtractedSegmentName": "extracted_segment_D_328305_403377.wav",
+    "SpeakerName": "Unknown 2"
+  }
+]

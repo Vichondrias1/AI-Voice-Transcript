@@ -1,0 +1,29 @@
+[
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Yeah, sure. Yeah, but the bond request type is just community corporate. That's like, regardless of what actual type of request it is, this is just saying if it's corporate, it's corporate. If it's community, they have to pick a community where what we're talking about now is kind of like a different type of a bond request. Right? And so the existing ones in the system now all uses kind of this. These questions and they have to fill them in in order to complete it. But now we have a new one and so we have to figure out what is the same as these one these questions here and what are new questions that we need to ask just for this, this type.",
+    "Start": 297855,
+    "End": 344165,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_297855_344165.wav",
+    "ExtractedSegmentName": "extracted_segment_A_297855_344165.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Okay, so I'm here with Liam and the other back office developers. So we're talking about the notary request. So we want to add this in. We have a couple of questions about the fields that are on this notary request form versus what we already have in there for the other two. What the difference is between the community and corporate and where notary falls in also. I'll let Liam talk, actually. Go ahead, Liam.",
+    "Start": 270215,
+    "End": 297395,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_270215_297395.wav",
+    "ExtractedSegmentName": "extracted_segment_B_270215_297395.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "Well, on this one for the notary, it would actually be the person who's needing the notary their address information versus when we do a regular bond, it would be like the corporate office also. They would. The person who's requesting the notary would also be the one who would be a signer for it. But as far as like ledger, the ledger could probably like initially like the regional office, that would be the SVP for the regional office for this particular department.",
+    "Start": 344705,
+    "End": 378325,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_344705_378325.wav",
+    "ExtractedSegmentName": "extracted_segment_C_344705_378325.wav",
+    "SpeakerName": "Kamala"
+  }
+]

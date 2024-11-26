@@ -1,0 +1,1856 @@
+[
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "To looking at this, look at the code. Right. And realize. Oh my. So we, let's talk since Lydia's here now about, you know, do we want to automate this somehow? And then we'll talk about the changes you sent over.",
+    "Start": 2200,
+    "End": 24441,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2200_24441.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2200_24441.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Sure. Leah. I was wondering if we had to do that because the auditors or if that's just the intention for the system. Do we have to do that? Because I kind of like a little bit that we don't.",
+    "Start": 24593,
+    "End": 38435,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_24593_38435.wav",
+    "ExtractedSegmentName": "extracted_segment_B_24593_38435.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "Yeah, a little bit of both. Otters want us to be, you know, as hands free as possible. Right. They, they want to remove the manipulation, any manipulation that we possibly have to do. So we need to see what those challenges are where you're having to copy, paste and create the journal entries or delete line items. They don't want that. But on the other side of things, I know that I'm going to start getting pressure from Paul and Denise to do it anyway. So it just.",
+    "Start": 39295,
+    "End": 62819,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_39295_62819.wav",
+    "ExtractedSegmentName": "extracted_segment_C_39295_62819.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Oh yeah. I kind of like not. But if we have to, we have to.",
+    "Start": 62867,
+    "End": 69083,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_62867_69083.wav",
+    "ExtractedSegmentName": "extracted_segment_B_62867_69083.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "Yeah, we'll have to. Me before that meeting and then the auditor sent me an email asking me the question. I'm like, I mean there's really no reason that I didn't automate it. It just wasn't a priority basically. Right. Hey, Tom. And so yeah, it's something they're pressing.",
+    "Start": 69219,
+    "End": 86337,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_69219_86337.wav",
+    "ExtractedSegmentName": "extracted_segment_C_69219_86337.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "So yeah, yeah, yeah. I, we do need a way to go. I don't know if it's going to make it harder to. Where it creates a journal entry and then it makes it hard to fix it. Like getting rid of zero rows, getting rid of. I don't want to have stuff that's already been reclassed in 2020, going in and out and in and out because I delete all those rows, you know, that sort of thing. Some of those vendor names are humongously long and I, you know, instead of beachfront homes, construction and maintenance and plumbing, you know, I, I cut all that extra stuff off of there. So. Yeah.",
+    "Start": 86451,
+    "End": 132977,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_86451_132977.wav",
+    "ExtractedSegmentName": "extracted_segment_B_86451_132977.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "So this is why I wanted to meet with Liam to see what he can help us with as far as, you know, not passing over those $0 line items. You know, if we have to shorten any names, see what we can do in an automated process and then we can fill in the gaps from there.",
+    "Start": 133041,
+    "End": 149015,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_133041_149015.wav",
+    "ExtractedSegmentName": "extracted_segment_C_133041_149015.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah. It sounds like it's going to take a really long time, right Leah?",
+    "Start": 150315,
+    "End": 156255,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_150315_156255.wav",
+    "ExtractedSegmentName": "extracted_segment_B_150315_156255.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Yeah, hopefully.",
+    "Start": 160355,
+    "End": 162335,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_160355_162335.wav",
+    "ExtractedSegmentName": "extracted_segment_A_160355_162335.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "Yeah.",
+    "Start": 164085,
+    "End": 164461,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_164085_164461.wav",
+    "ExtractedSegmentName": "extracted_segment_D_164085_164461.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Because I don't know on your side. Right. Because right now you can generate the file. Right. And then manually fix things if we set it up so it goes to mri. And let's just forget about the tech. The technical hurdles. We'd have to do for that then. You're right. The problem would be you would have to fix these things after the fact. Right. And you would.",
+    "Start": 164493,
+    "End": 192505,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_164493_192505.wav",
+    "ExtractedSegmentName": "extracted_segment_A_164493_192505.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah. MRI is very difficult to go in and change an entry once you've uploaded it. You almost have to start over from and re upload. It's impossible to. Because it will throw you out of balance if you change anything.",
+    "Start": 193405,
+    "End": 209545,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_193405_209545.wav",
+    "ExtractedSegmentName": "extracted_segment_B_193405_209545.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "Why do we have to change things? I don't understand why we don't have a set of rules and we apply those rules before the data is extracted. So vendor name cannot be more than 20 characters or, you know, eliminate zero dollar rows.",
+    "Start": 210725,
+    "End": 226485,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_210725_226485.wav",
+    "ExtractedSegmentName": "extracted_segment_D_210725_226485.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah, ideally.",
+    "Start": 229705,
+    "End": 231365,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_229705_231365.wav",
+    "ExtractedSegmentName": "extracted_segment_B_229705_231365.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "Maybe the thing to do is to. Is to kind of prepare just an extract as is without applying any of those rules and in the test environment and then we play around with it and see. Okay, what, what rules do we need to apply here? Unless, Jill, unless you have, you know, a very firm set of rules that you know exactly what needs to be done.",
+    "Start": 234985,
+    "End": 259005,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_234985_259005.wav",
+    "ExtractedSegmentName": "extracted_segment_D_234985_259005.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "No, it's each one. It's each. Each home sale that I do.",
+    "Start": 259305,
+    "End": 264445,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_259305_264445.wav",
+    "ExtractedSegmentName": "extracted_segment_B_259305_264445.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "I mean, obviously the auditors are concerned about all the manual manipulation. So if we had a set of rules, then.",
+    "Start": 267825,
+    "End": 275701,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_267825_275701.wav",
+    "ExtractedSegmentName": "extracted_segment_D_267825_275701.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah, like the ones that I do, I get rid of the zero rows. If a vendor name is really long, I'll shorten it to just like beachfront construction instead of 50 other characters. And then if something was previously reclassed, I delete those zero rows. If I reclass something in 2020 and it nets to zero for those expenses because they were coded wrong, I don't want that coming through in the home sale ent. So I'll go in and I'll delete those zero. Those rows that were already previously reclassed, whether it was last month or five years ago, you know, so.",
+    "Start": 275853,
+    "End": 317445,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_275853_317445.wav",
+    "ExtractedSegmentName": "extracted_segment_B_275853_317445.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "And when you do, really quickly, Tom.",
+    "Start": 318185,
+    "End": 319993,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_318185_319993.wav",
+    "ExtractedSegmentName": "extracted_segment_D_318185_319993.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "Can you explain to them the process we have now? So it wouldn't be going directly into MRI, right, Tom? Because we're not going to use the APIs.",
+    "Start": 320049,
+    "End": 327365,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_320049_327365.wav",
+    "ExtractedSegmentName": "extracted_segment_C_320049_327365.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "Well. Right. I mean, so we have a process that we develop when we convert it to mri. And we really have two separate processes. We've got one where accountants can put journal entry files into a certain folder on a shared. Into a certain shared folder. And then we have a process that runs every two minutes. It looks at all the available files to be processed and it does some validations and checking. And if everything checks out, it directly inserts that stuff into MRI's journal table into an unposted Status and then the accountant can just verify one last time and post it. We have a second process for people, for processes that still use the legacy Smart stream accounting fields. And all that does is it pretty much does the same thing, but it converts the format of that journal entry file from the Smart stream format into the MRI format and then it pushes it to the next folder, which is the mri. The MRI folder. So Jill, is this, Are these journal entries in the MRI format or the.",
+    "Start": 328305,
+    "End": 403377,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_328305_403377.wav",
+    "ExtractedSegmentName": "extracted_segment_D_328305_403377.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Old Smart stream MRI format? Yes, MRI format. Yeah. I've always gone through a journal entry upload to mri. I don't use the mapper or anything good.",
+    "Start": 403401,
+    "End": 416201,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_403401_416201.wav",
+    "ExtractedSegmentName": "extracted_segment_B_403401_416201.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "Ever.",
+    "Start": 416313,
+    "End": 416729,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_416313_416729.wav",
+    "ExtractedSegmentName": "extracted_segment_D_416313_416729.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Ever.",
+    "Start": 416817,
+    "End": 417089,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_416817_417089.wav",
+    "ExtractedSegmentName": "extracted_segment_B_416817_417089.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "It makes it simpler.",
+    "Start": 417137,
+    "End": 418245,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_417137_418245.wav",
+    "ExtractedSegmentName": "extracted_segment_D_417137_418245.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah, you gotta bite the bullet on that and exactly. Get it done. Yeah, so I did that from the beginning.",
+    "Start": 418595,
+    "End": 425775,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_418595_425775.wav",
+    "ExtractedSegmentName": "extracted_segment_B_418595_425775.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "So, Liam, I'm thinking if you were able to do this type of an extract, then all you'd need to do is just put this text file with the journal entry line items into a certain shared folder that we can send you.",
+    "Start": 427755,
+    "End": 443055,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_427755_443055.wav",
+    "ExtractedSegmentName": "extracted_segment_D_427755_443055.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Yeah, that would definitely, that would definitely make that, that technical side of things a lot easier. So the only, the only problem again would be, let's say we, we, we, we decide to go this route given the, you know, the problem with rapid updates to back office. Right. Because other things are always holding it back. Do we have some sort of step where she can edit it in the short term? Like it automates the GL entries and then there's some sort of stop where she can check it before it gets exported. That way if she wants, if she needs to make changes, we can make changes on the next update. But she still has the ability to manually change the files before they get picked up. And then once we're pretty sure that there are no more issues after a month or two, then we can remove that option. I'm just wondering if. Because otherwise we're going to run into a situation where we never thought about this or this doesn't happen that often. But.",
+    "Start": 445845,
+    "End": 523574,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_445845_523574.wav",
+    "ExtractedSegmentName": "extracted_segment_A_445845_523574.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "Yeah.",
+    "Start": 523654,
+    "End": 524274,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_523654_524274.wav",
+    "ExtractedSegmentName": "extracted_segment_D_523654_524274.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "You'Re saying on a trial basis, have kind of in the middle until we get through all the iterations.",
+    "Start": 526254,
+    "End": 532874,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_526254_532874.wav",
+    "ExtractedSegmentName": "extracted_segment_C_526254_532874.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Yeah, because she's talking about the reclasses, but it wasn't really clear if you can, you can automate that portion. Like if it requires some lookup that she's doing. Like, can you explain more about the reclass last month or five years ago.",
+    "Start": 533454,
+    "End": 550394,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_533454_550394.wav",
+    "ExtractedSegmentName": "extracted_segment_A_533454_550394.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "When the journal entry upload, on one line you'll have a negative amount and on another line you'll have the positive. And it's the same description. So they just net zero against Each other where the original payment was and then where I reclassed it. So I'm getting rid of those four lines, the cost of goods sold, the original inventory account for both sides of it, I think on that. I sent a spreadsheet last week with the changes and there were tabs and I had highlighted some yellow lines in there that showed the ins and outs. And those four lines that I would delete. I wouldn't carry forward with those through the home sale entry.",
+    "Start": 551955,
+    "End": 597975,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_551955_597975.wav",
+    "ExtractedSegmentName": "extracted_segment_B_551955_597975.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "So would we when we. So when we do the cost of goods sold, we get back all the actual line items. And so you're saying that if there's offsetting amounts, it don't include those rows.",
+    "Start": 598755,
+    "End": 612427,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_598755_612427.wav",
+    "ExtractedSegmentName": "extracted_segment_A_598755_612427.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah. Right.",
+    "Start": 612571,
+    "End": 615139,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_612571_615139.wav",
+    "ExtractedSegmentName": "extracted_segment_B_612571_615139.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay. Because I think we do that for something in the capex. We do that for the capex guys. So we have code to remove that. The other thing was you had sent over in your change. The cost of good descriptions need to be updated. You say. Okay, so. So that's coming from mri, so.",
+    "Start": 615307,
+    "End": 639685,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_615307_639685.wav",
+    "ExtractedSegmentName": "extracted_segment_A_615307_639685.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Right. I didn't know if you were able to concatenate that the. Because I have to change that. I change it to. If it says plumbing, then I'll add the invoice number, I'll add the plumbing description, I'll add the vendor number and then the vendor name as my full description that I'm uploading into mri. Yes. And column is that K. Those are the entries that I would upload instead of in column E where the it says just base price, I would put in. And column K. I would use that description instead of column E.",
+    "Start": 641825,
+    "End": 688655,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_641825_688655.wav",
+    "ExtractedSegmentName": "extracted_segment_B_641825_688655.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay. So when we pass it back over, I think in your change here, you talked about this one. So really this one replace is really what you want instead of this one?",
+    "Start": 690515,
+    "End": 702055,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_690515_702055.wav",
+    "ExtractedSegmentName": "extracted_segment_A_690515_702055.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Well, that one's from Smart Stream. Those are those Smart Stream entries, and those come through as CB balance. They have the PQRT descriptions in there. Sometimes they'll come through with absolutely nothing. The line will just be blank. So then I have to go do a Smart Stream query and bring all those descriptions in so we have some real information in there. And then for the ones that come through mri, those. And the. For the HTM starts with H. That's a new MRI system. So everything came through MRI for that htn. Those are just easier with the invoice number, the description, vendor ID and vendor name. So I'm kind of going back and forth between Smart Stream, depending on the htn just so we have real information in the journal entry. Because I. Then I have to. Who knows what Paul's going to ask for in four years and we have to go back and look at that. So I want real information in there. So those in this one, column K is the Smart Stream description. Instead of CV balance that came through for the conversion, I'm using column K as the descriptions. I'm changing all of everything in column E. And those yellow lines there where it's 150 negative and then down on line 28 it's a 150 positive or 350 and 150. So those lines originate in the same account number and then they're being reclassed. So it looks like in column e it says March 2020. I reclassed those out because they were coded incorrectly. So I wouldn't want to include those lines. Or I. You. I currently don't. I delete those rows since they net zero.",
+    "Start": 702635,
+    "End": 830225,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_702635_830225.wav",
+    "ExtractedSegmentName": "extracted_segment_B_702635_830225.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay, so depending on whether the HDN has an H or not, I mean, H, it's, it's, it's originally from mri, and if it doesn't have an H, it's originally from smartstream.",
+    "Start": 830965,
+    "End": 842797,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_830965_842797.wav",
+    "ExtractedSegmentName": "extracted_segment_A_830965_842797.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Right.",
+    "Start": 842941,
+    "End": 843625,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_842941_843625.wav",
+    "ExtractedSegmentName": "extracted_segment_B_842941_843625.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "And then you want to put in the invoice number description, vendor ID and vendor name, if it has it.",
+    "Start": 843965,
+    "End": 855375,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_843965_855375.wav",
+    "ExtractedSegmentName": "extracted_segment_A_843965_855375.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Right, yeah. For the H ones that are rigid in mri, those are pretty straightforward. And they've just. It used to include, when we first started, the invoice number and the description, and then they moved the invoice number to a different field. So now we only get like base price options. We don't get any real information like the vendor or if I need to review an invoice, there's no invoice number there. And the invoices numbers are really important to me for review.",
+    "Start": 855535,
+    "End": 890705,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_855535_890705.wav",
+    "ExtractedSegmentName": "extracted_segment_B_855535_890705.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay. So regardless of whether it has H or doesn't have H, you still need.",
+    "Start": 893645,
+    "End": 899493,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_893645_899493.wav",
+    "ExtractedSegmentName": "extracted_segment_A_893645_899493.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah, yeah. For Smart Stream, that first set of numbers is the vendor number, then it's the invoice number and then it's the description. So the way it was formatted was a little different in smartstream versus mri. So the same information is there, it's just a different order. Like we don't have the vendor name, but we have the vendor number.",
+    "Start": 899669,
+    "End": 927625,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_899669_927625.wav",
+    "ExtractedSegmentName": "extracted_segment_B_899669_927625.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay.",
+    "Start": 930295,
+    "End": 930743,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_930295_930743.wav",
+    "ExtractedSegmentName": "extracted_segment_A_930295_930743.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Like that. 0, 0, 004. That's the invoice, that's the vendor number. And we never included the vendor name and smart string. So. And then when I'm reviewing, I'm using the invoice number anyway, so.",
+    "Start": 930799,
+    "End": 947631,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_930799_947631.wav",
+    "ExtractedSegmentName": "extracted_segment_B_930799_947631.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay. But when we get the actual line items, we get everything back from MRI in a file. And so when we generate the GL entries For the description you want to use. Because this is the description currently. Right.",
+    "Start": 947823,
+    "End": 963261,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_947823_963261.wav",
+    "ExtractedSegmentName": "extracted_segment_A_947823_963261.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "This.",
+    "Start": 963293,
+    "End": 963865,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_963293_963865.wav",
+    "ExtractedSegmentName": "extracted_segment_B_963293_963865.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "You just wanted the description to be in a fixed format like invoice number description, vendor ID and vendor name. We're just talking about going forward.",
+    "Start": 964765,
+    "End": 976065,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_964765_976065.wav",
+    "ExtractedSegmentName": "extracted_segment_A_964765_976065.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah. And if you go into back office for an HTN with that starts with H, you'll have all that information in there. In back office, it's just in different. The different fields. And then I concatenate all of that to pull it all together, but all of it is in back office. It's just the different fields in. When you drill into an inventory account balance.",
+    "Start": 976365,
+    "End": 1008375,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_976365_1008375.wav",
+    "ExtractedSegmentName": "extracted_segment_B_976365_1008375.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Right?",
+    "Start": 1009155,
+    "End": 1009895,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1009155_1009895.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1009155_1009895.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah.",
+    "Start": 1011125,
+    "End": 1011461,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1011125_1011461.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1011125_1011461.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "As long as it's in the, in the, in the journal entry already. Right. In those, in those columns, when you look at the actual cost detail, we'll just, we'll just put them back.",
+    "Start": 1011493,
+    "End": 1022385,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1011493_1022385.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1011493_1022385.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah. I thought that that would. Might have been easier for you to create that one versus Smart stream, bringing that in because. And, and sometimes with a smart stream htn, it will come through with the full data and not just conversion balance. So I'm not sure that if it.",
+    "Start": 1024605,
+    "End": 1046583,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1024605_1046583.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1024605_1046583.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Has conversion balance and there's no invoice number vendor, then we can't put that data in. Right.",
+    "Start": 1046599,
+    "End": 1052247,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1046599_1052247.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1046599_1052247.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah. I didn't know what that would take to do that because I would. I don't. I really don't want to continue having. If we do automatically upload into mri, I wouldn't want to continue with CV balance as our PQRT as our description. And that's all.",
+    "Start": 1052311,
+    "End": 1069965,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1052311_1069965.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1052311_1069965.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Well, if that's all that's. That's given back in when we, when we look at the p. At the PO account balance, then that's all we can. Yeah, we can send. Right. Because we, we don't have that information just looking at that.",
+    "Start": 1072425,
+    "End": 1086081,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1072425_1086081.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1072425_1086081.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "I wonder, Tom, is that a way. Is there something that they can. Can do to change that activity that's.",
+    "Start": 1086273,
+    "End": 1094241,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1086273_1094241.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1086273_1094241.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "Showing up there to change the activity. I'm not sure I understand.",
+    "Start": 1094273,
+    "End": 1101137,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_1094273_1101137.wav",
+    "ExtractedSegmentName": "extracted_segment_D_1094273_1101137.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Like the upload that's. That's being sent to them instead of it coming through as conversion balance.",
+    "Start": 1101321,
+    "End": 1108365,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1101321_1108365.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1101321_1108365.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "He's talking about the actual MRI file that gets dumped on back office with all the actual costs.",
+    "Start": 1110665,
+    "End": 1116953,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1110665_1116953.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1110665_1116953.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah. I didn't know if that could be changed to pull the actual smart stream descriptions instead of it saying conversion balance.",
+    "Start": 1117089,
+    "End": 1126545,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1117089_1126545.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1117089_1126545.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "I'm gonna find an example here. I'll just pick one from.",
+    "Start": 1135565,
+    "End": 1138549,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1135565_1138549.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1135565_1138549.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "Yeah, let's look at something.",
+    "Start": 1138717,
+    "End": 1140385,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_1138717_1140385.wav",
+    "ExtractedSegmentName": "extracted_segment_D_1138717_1140385.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Something from three years ago or something.",
+    "Start": 1141205,
+    "End": 1143985,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1141205_1143985.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1141205_1143985.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "If you want to go to HTN 2256.",
+    "Start": 1157295,
+    "End": 1161475,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1157295_1161475.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1157295_1161475.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "I get what it load first because.",
+    "Start": 1163615,
+    "End": 1165735,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1163615_1165735.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1163615_1165735.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Oh, okay.",
+    "Start": 1165895,
+    "End": 1166783,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1165895_1166783.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1165895_1166783.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "These SQL Servers are like just low. If you go to, you know, the ID, except. Yeah.",
+    "Start": 1166919,
+    "End": 1181681,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1166919_1181681.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1166919_1181681.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "222-560-478.",
+    "Start": 1181713,
+    "End": 1186249,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1181713_1186249.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1181713_1186249.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "No, no, no.",
+    "Start": 1186417,
+    "End": 1187321,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1186417_1187321.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1186417_1187321.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Oh, I don't. Here, let me.",
+    "Start": 1187433,
+    "End": 1189445,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1187433_1189445.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1187433_1189445.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "I can probably load it from the, from the menu here. PO number. Sorry, what is it again?",
+    "Start": 1190745,
+    "End": 1195489,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1190745_1195489.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1190745_1195489.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "22-560-478. And then if you go to the Budget tab and just click into what the actual amount and it says CV balance there. I didn't know if that could be changed in the upload, the information that they're given to upload. If it can actually we can bring in those Smart Strain descriptions because I.",
+    "Start": 1195617,
+    "End": 1230831,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1195617_1230831.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1195617_1230831.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "This is straight from. This is. Yeah, converted in, into MRI and that's.",
+    "Start": 1231023,
+    "End": 1237351,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1231023_1237351.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1231023_1237351.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "How it was converted. And I, because it says balance, I'm thinking it's not. Doesn't represent just one transaction.",
+    "Start": 1237383,
+    "End": 1245235,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_1237383_1245235.wav",
+    "ExtractedSegmentName": "extracted_segment_D_1237383_1245235.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "It might not. Sometimes, sometimes it is and sometimes it's not. Sometimes it's a, a group of line items and under one amount. I didn't know if that information that they're given could be changed to pull in the actual descriptions.",
+    "Start": 1247695,
+    "End": 1268855,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1247695_1268855.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1247695_1268855.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "Yeah, I mean that was done two and a half years ago and I don't remember exactly how that was put together at that time, but being able to go backward to find that, I. Not. Not optimistic.",
+    "Start": 1269995,
+    "End": 1287975,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_1269995_1287975.wav",
+    "ExtractedSegmentName": "extracted_segment_D_1269995_1287975.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Right.",
+    "Start": 1288355,
+    "End": 1289095,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1288355_1289095.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1288355_1289095.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Yeah, because we wouldn't have that data and Amber, I wouldn't have that data.",
+    "Start": 1291075,
+    "End": 1295475,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1291075_1295475.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1291075_1295475.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "Right.",
+    "Start": 1295635,
+    "End": 1296335,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_1295635_1296335.wav",
+    "ExtractedSegmentName": "extracted_segment_D_1295635_1296335.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "So then are the auditors going to be okay if I change that, If I correct that?",
+    "Start": 1298555,
+    "End": 1304255,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1298555_1304255.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1298555_1304255.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Well, how can you correct it?",
+    "Start": 1305715,
+    "End": 1307295,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1305715_1307295.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1305715_1307295.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Well, I would go, yeah, I would go into, do a Smart Stream query and then upload, change those descriptions. I mean that's. Currently what I'm doing is going into Smart Stream and I'm changing all those descriptions.",
+    "Start": 1307785,
+    "End": 1322245,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1307785_1322245.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1307785_1322245.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "Okay, so let's just look at this top row as an example. How, how do you, what, what exact query do you use to get the proper description for row one?",
+    "Start": 1323025,
+    "End": 1333979,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_1323025_1333979.wav",
+    "ExtractedSegmentName": "extracted_segment_D_1323025_1333979.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "I, I have a Smart Stream query that I still use in Excel and I just query the po, the HTN and I, I use those descriptions that it comes up with.",
+    "Start": 1334027,
+    "End": 1350695,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1334027_1350695.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1334027_1350695.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "So, okay, so you use the htn, you've got the GL account number on the left. Is that what. Right. And you've got the date.",
+    "Start": 1352955,
+    "End": 1361315,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_1352955_1361315.wav",
+    "ExtractedSegmentName": "extracted_segment_D_1352955_1361315.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah, I have a Smart Stream query and I just go in and I query the po. So I get all the activity from Smart Stream for that HTN po.",
+    "Start": 1362255,
+    "End": 1374395,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1362255_1374395.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1362255_1374395.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "When you find a single transaction in Smart Stream and you're able to replace the description from CV monthly balance to some description that you retrieve from Smart Stream.",
+    "Start": 1378615,
+    "End": 1392895,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_1378615_1392895.wav",
+    "ExtractedSegmentName": "extracted_segment_D_1378615_1392895.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah. Can I share my screen?",
+    "Start": 1393435,
+    "End": 1396815,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1393435_1396815.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1393435_1396815.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay, go Ahead.",
+    "Start": 1398035,
+    "End": 1399095,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1398035_1399095.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1398035_1399095.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Can you see my. This screen? So this is, here's the, here's the HTN in column E and here's the account number. And then here's the 2900 electric upgrade. So this is what I would copy and paste this into the journal entry. I would copy and paste all these descriptions from this query into the MRI journal entry. So instead of having CV balance, we know that it's options or freight or installing the home. So these are all the descriptions of the smart string query I have that I, that I use for, to pull all those descriptions into the cost of goods sale portion of the entry. Instead of having just P2RT, you're, you're.",
+    "Start": 1407915,
+    "End": 1473327,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1407915_1473327.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1407915_1473327.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Looking at obviously the project number and the amount but the date won't match. So. So you really need to like use.",
+    "Start": 1473351,
+    "End": 1482287,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1473351_1482287.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1473351_1482287.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "I'm, I'm. I'm able to tie out dollar amounts. Like if something is grouped together so all this number here and then if it comes through as 4350, then I'm gonna. Depending like these are all the Same invoice numbers here. 50092D. So I might just say use the one for setting the home because that's basically all it is. I wouldn't necessarily. But if part of it's through a credit card, part of it's from a reclass, part of it's, you know, then I'll add extra rows in there and I'll split all that, that dollar amount up into individual lines.",
+    "Start": 1482351,
+    "End": 1521105,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1482351_1521105.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1482351_1521105.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Yeah. So yeah, there's no, not going to be any way to automate this. Even if we had this data, we wouldn't be able to look up and make those decisions.",
+    "Start": 1523165,
+    "End": 1531865,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1523165_1531865.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1523165_1531865.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah, I wouldn't, I did. I didn't know if instead of consolidating into a lump sum for an account number, if it has five lines, then you're doing five lines instead of consolidating into one. I didn't know. And so. But this is what, this is my smart string query that I use for looking up the PO and then pulling in the descriptions.",
+    "Start": 1533005,
+    "End": 1567525,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1533005_1567525.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1533005_1567525.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Tommy, wanna automate this.",
+    "Start": 1570795,
+    "End": 1572975,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1570795_1572975.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1570795_1572975.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "You know, so I'm starting to wonder, you know, how I know this may be convenient, Jill, but I wonder, I mean is this like a critical requirement for the descriptions? Well. Or for what this. And I'm going to actually go back to the earlier conversation about eliminating the things that net to zero. It's. They're not the same.",
+    "Start": 1576715,
+    "End": 1604625,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_1576715_1604625.wav",
+    "ExtractedSegmentName": "extracted_segment_D_1576715_1604625.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah. If we can't do it, then we can't. You know, but I mean that is what I do currently. But if we can't do that.",
+    "Start": 1605205,
+    "End": 1629195,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1605205_1629195.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1605205_1629195.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "It.",
+    "Start": 1633375,
+    "End": 1633663,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1633375_1633663.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1633375_1633663.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Might be a lot more work than what I'm currently doing for it, you know, and it definitely wouldn't be hands off if I'm still doing the exact same thing just in a different place.",
+    "Start": 1633679,
+    "End": 1646275,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1633679_1646275.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1633679_1646275.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "Right. But I guess what I'm trying to get at, and maybe we're not, you know, maybe we can't answer it right now, but it's. It's kind of a question of is it something that you do because it's con, you know, because it's marginally useful, or is it something that's absolutely mission critical?",
+    "Start": 1650705,
+    "End": 1669313,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_1650705_1669313.wav",
+    "ExtractedSegmentName": "extracted_segment_D_1650705_1669313.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah. During my review and creating reports and stuff for month end and quarter end. Yeah, I need to be able to see that stuff is coded correctly and I need to be able to review it and create other information. And then people are also using it for other things. You know, like financial reporting, uses the cost of goods sold activity for their reporting. And, you know, sometimes Paul will ask for something and he wants it from 2022 forward. And, you know, so to have real information, I mean, but if everybody's okay with it, not then. Then I'll get over it.",
+    "Start": 1669489,
+    "End": 1734205,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1669489_1734205.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1669489_1734205.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "I don't know, I'm just thinking out loud. But maybe the thing to do is to have some incremental, like work our way towards the final product by maybe, maybe. Liam, one of the things I had heard that was an A concern is that these extracts have to be run one at a time as opposed to like in a batch. And maybe that's something that could be done as a starting point. And then, Jill, you can continue to do certain manual things and then we'll chip away at the manual things until it's all automated. Because I'm sure between Liam's team and my team, you know, we have to just find the time to, to do this so we can do incremental improvements as we work towards the final full thing.",
+    "Start": 1737505,
+    "End": 1796725,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_1737505_1796725.wav",
+    "ExtractedSegmentName": "extracted_segment_D_1737505_1796725.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "I understand. That's fine with me.",
+    "Start": 1800945,
+    "End": 1802845,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1800945_1802845.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1800945_1802845.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Obviously, over time, the number of homes that still have smart stream entries will decrease, correct?",
+    "Start": 1805385,
+    "End": 1812635,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1805385_1812635.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1805385_1812635.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yes, eventually. But we have about 5,000 homes out there, so.",
+    "Start": 1814535,
+    "End": 1821115,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1814535_1821115.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1814535_1821115.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "And is that because a lot of them are rented?",
+    "Start": 1823655,
+    "End": 1825835,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1823655_1825835.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1823655_1825835.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah.",
+    "Start": 1826295,
+    "End": 1827075,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1826295_1827075.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1826295_1827075.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay, so that problem's not going away then anytime soon.",
+    "Start": 1833785,
+    "End": 1837641,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1833785_1837641.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1833785_1837641.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "Yeah.",
+    "Start": 1837833,
+    "End": 1838645,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_1837833_1838645.wav",
+    "ExtractedSegmentName": "extracted_segment_C_1837833_1838645.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Now I haven't seen any improvement in less smart stream homes in the couple of years that we've been doing. It hasn't lessened at all.",
+    "Start": 1840705,
+    "End": 1851285,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1840705_1851285.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1840705_1851285.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay. Okay, so right now your process is if the home is booked, you go in and you generate the GL entries. Is that correct? What's, what's the exact Time that, you know, you need to generate those.",
+    "Start": 1853745,
+    "End": 1871735,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1853745_1871735.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1853745_1871735.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Oh, when the. When the HTN is in closed status, I go and I review the sale paperwork, and if everything's okay, then I'll create the home sale journal entry, and then I upload it into, like a master file and I do like, you know, 30, 40 sales, and then I'll upload that into MRI.",
+    "Start": 1872875,
+    "End": 1896155,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1872875_1896155.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1872875_1896155.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "So you copy and paste it into another Excel file, right?",
+    "Start": 1897175,
+    "End": 1901127,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1897175_1901127.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1897175_1901127.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yes. And then when I'm ready to post, I just do all of them at the same time under one journal entry. I don't do a separate entry for each home.",
+    "Start": 1901311,
+    "End": 1912115,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1901311_1912115.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1901311_1912115.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "So in an ideal world in the future, you. Once you review all the sale information on a home, you just. Let's just say you click a button, that this one's ready to generate the journal entries. Right. And it generates it in the system in some sort of table. And then there's going to be some page where you can review those journal entries that we created in the system. And once you either edit them, you mark it as approved. Right. And then once all the ones that haven't been exported are ready, then you. You click a button and exports it pushes that file somewhere. Right. Exports the records to a file for Tom. And then at some point in the future, we just take away the ability for you to edit. And it's basically, there's no more manual entry and it's completely automated, but at least we have the fallback where you can edit it for these kind of edge exceptions.",
+    "Start": 1915345,
+    "End": 1990915,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1915345_1990915.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1915345_1990915.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Sorry.",
+    "Start": 1992615,
+    "End": 1993435,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_1992615_1993435.wav",
+    "ExtractedSegmentName": "extracted_segment_B_1992615_1993435.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "That way we can always tweak the output in future updates and kind of try to remove any manual updates.",
+    "Start": 1996705,
+    "End": 2008285,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_1996705_2008285.wav",
+    "ExtractedSegmentName": "extracted_segment_A_1996705_2008285.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah.",
+    "Start": 2011985,
+    "End": 2012805,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2011985_2012805.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2011985_2012805.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay. So I think we can work towards that in a parallel approach to your existing approach. Like you still have the ability now to generate these files, and then we'll start working towards storing those results in the database and then having a way for you to edit it and then having a way to export it so Tom's team can pick it up. Does it sound like a plan, Tom?",
+    "Start": 2019105,
+    "End": 2050055,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2019105_2050055.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2019105_2050055.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "Yes. Yeah. So it will get. So currently it's not stored. Like, it just gets exported right away. Is that right?",
+    "Start": 2052395,
+    "End": 2061075,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_2052395_2061075.wav",
+    "ExtractedSegmentName": "extracted_segment_D_2052395_2061075.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Yeah, she just clicks a button and it just calculates everything that needs to be put in the file and gives her back an Excel file. Okay.",
+    "Start": 2061235,
+    "End": 2068659,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2061235_2068659.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2061235_2068659.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "So then we store it. We have some kind of a flag that indicates whether it's been exported or not. That way she can do a batch instead of one at a time, like, you know, push it to this table, and then there'll be a separate page or a separate screen where she can look at it and edit. Yeah, yeah, that sounds good. Because it's incremental. We do what we can and then make improvements.",
+    "Start": 2068827,
+    "End": 2105215,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_2068827_2105215.wav",
+    "ExtractedSegmentName": "extracted_segment_D_2068827_2105215.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay, so that's our plan going forward. And then I just need to talk to her longer on this call about her changes to that process that she already has that she sent to us.",
+    "Start": 2109475,
+    "End": 2123335,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2109475_2123335.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2109475_2123335.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah, those were just a few of the accounts that aren't currently included in the cost of goods sold entry. When I record a sale for, like, the reserves, the furniture, the repo value, when there's activity in that account, it's not a part of the cost of goods sold entry at this time.",
+    "Start": 2125245,
+    "End": 2148145,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2125245_2148145.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2125245_2148145.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay, so we can discuss that. We'll let everyone else jump off and I'll just go through these and ask my questions. Should take just a couple minutes.",
+    "Start": 2149765,
+    "End": 2159195,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2149765_2159195.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2149765_2159195.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "D",
+    "SpeakerText": "Okay. All right, thanks, Liam.",
+    "Start": 2159535,
+    "End": 2162511,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_D_2159535_2162511.wav",
+    "ExtractedSegmentName": "extracted_segment_D_2159535_2162511.wav",
+    "SpeakerName": "Unknown 2"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "All right, thanks, Tom. Thanks, Liam.",
+    "Start": 2162703,
+    "End": 2164595,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2162703_2164595.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2162703_2164595.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "So, Liam, really quickly, I need to chat with you when you're done.",
+    "Start": 2165695,
+    "End": 2169535,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_2165695_2169535.wav",
+    "ExtractedSegmentName": "extracted_segment_C_2165695_2169535.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay.",
+    "Start": 2169695,
+    "End": 2170031,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2169695_2170031.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2169695_2170031.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "I don't know if you want to, like, pull me in when you're. You finish with Jill or I can just hang out and do some work.",
+    "Start": 2170063,
+    "End": 2177915,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_2170063_2177915.wav",
+    "ExtractedSegmentName": "extracted_segment_C_2170063_2177915.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Yeah, you can just hang out. I think we're just going to be like three or four minutes here.",
+    "Start": 2178775,
+    "End": 2182311,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2178775_2182311.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2178775_2182311.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Okay.",
+    "Start": 2182423,
+    "End": 2183115,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2182423_2183115.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2182423_2183115.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "All right, Jill. So number one, we already have that fixed in. In our current update.",
+    "Start": 2185295,
+    "End": 2191159,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2185295_2191159.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2185295_2191159.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Okay.",
+    "Start": 2191247,
+    "End": 2191915,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2191247_2191915.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2191247_2191915.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "So the reserve accounts. So let me just pull up the code as well. So. All right, so these are the accounts we're pulling for cost of goods sold. Again, just look at this kind of row column here. So we're just basically going to be adding the reserve in there. So that's fine. And then furniture that's not. I don't see furniture in here. So we'll add that account repo value. So if I go to the P.O. jump back here. Repo, repo. So that's this one.",
+    "Start": 2192735,
+    "End": 2236635,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2192735_2236635.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2192735_2236635.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Right?",
+    "Start": 2236755,
+    "End": 2237415,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2236755_2237415.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2236755_2237415.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay. So there's never going to be a value in there for new anyway, so.",
+    "Start": 2238315,
+    "End": 2242655,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2238315_2242655.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2238315_2242655.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah, there is. What? When they're. When they re do it through a repo. I do have that. It's not a lot and not very often, but I do have it. So that's why I had it. Just last week, I had one that had a repo value that I had to add in.",
+    "Start": 2243035,
+    "End": 2261695,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2243035_2261695.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2243035_2261695.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "We just have a used home account.",
+    "Start": 2262035,
+    "End": 2264095,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2262035_2264095.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2262035_2264095.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yes, repos are a used home. Their repos are never going to be new because new is when we buy a home through a manufacturer, and this is through a repossession of the home, so it will always be used.",
+    "Start": 2264545,
+    "End": 2280165,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2264545_2280165.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2264545_2280165.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay, that's fine. We'll just use the same account for either or. I'm Just talking, talking to my team that, hey, it doesn't like right now we have an account for new and account for use, but it would be the same for either because there's never going to be an amount on a new PO.",
+    "Start": 2284545,
+    "End": 2299405,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2284545_2299405.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2284545_2299405.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "For repo. Not for repo.",
+    "Start": 2299905,
+    "End": 2301841,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2299905_2301841.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2299905_2301841.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Yeah. All right, so then light bulbs, you're saying that the account number has changed for cosmic.",
+    "Start": 2301993,
+    "End": 2309961,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2301993_2309961.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2301993_2309961.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah, I've always been changing that when we. This is something that was supposed to happen a long time ago. It's silly that light bulbs has their own inventory account and there's only like 65, when a couple years ago there was only like a $65,000 balance for the entire company for light bulbs. So we decided to do away with that, make that a historical account and then have the have it go to used other new and used other instead of having light bulbs on its own and then hopefully get rid of that account at some point. But that. That never happened. So. And I've been changing it all along. I haven't been using the accounts ending in 17 for the cost of goods sold. I've been changing that as part of my cleanup before I record the entry.",
+    "Start": 2309993,
+    "End": 2372055,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2309993_2372055.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2309993_2372055.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay, so we just have to take a look at. So all the amounts that were in these two columns, those are reclassed over now to these two ones.",
+    "Start": 2374755,
+    "End": 2384099,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2374755_2384099.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2374755_2384099.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "No, they're taken out of the 17 and put to 38 and 39. Should be 561-5039.",
+    "Start": 2384227,
+    "End": 2392475,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2384227_2392475.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2384227_2392475.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Oh, yeah, yeah, yeah, yeah. Okay.",
+    "Start": 2392515,
+    "End": 2393651,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2392515_2393651.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2392515_2393651.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah.",
+    "Start": 2393683,
+    "End": 2394083,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2393683_2394083.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2393683_2394083.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "But everything's been reclassed already, correct?",
+    "Start": 2394179,
+    "End": 2396811,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2394179_2396811.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2394179_2396811.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah, I mean, I probably missed a couple here and there, but for the most part, I reclass them. I don't use that 17 account.",
+    "Start": 2397003,
+    "End": 2404945,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2397003_2404945.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2397003_2404945.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay. Okay, so that's fine. And then the threshold. I think we've already changed that in the code to 2500. I saw that in here. Yeah, right here. So the variance amount was 5k. Now it's 2 5. Okay, this one. This is. This is really nothing to do with back office. But it's in that API for back office. Yeah, yeah, I saw them change something for that.",
+    "Start": 2405285,
+    "End": 2434879,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2405285_2434879.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2405285_2434879.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Okay.",
+    "Start": 2435047,
+    "End": 2435911,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2435047_2435911.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2435047_2435911.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "All right. And then we saw. We talked about 8 and 9 already. And then. Go ahead.",
+    "Start": 2436103,
+    "End": 2441399,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2436103_2441399.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2436103_2441399.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah. For the special character so it doesn't fail in mri, we need to remove all those characters because otherwise it will fail. It will just won't return a journal entry, ID number or anything. It will just bomb out on us.",
+    "Start": 2441447,
+    "End": 2457081,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2441447_2457081.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2441447_2457081.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Yeah, I see them. They've already added to the code to remove this.",
+    "Start": 2457273,
+    "End": 2460849,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2457273_2460849.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2457273_2460849.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Okay. Yeah, so that's part. I included that because if we're going to do the automated entry, we need to make sure that this is part of it because that's like the last thing I do before I upload is make sure there aren't any special characters in there. And if there are, then it just won't generate a ID number for the journal entry.",
+    "Start": 2460937,
+    "End": 2484095,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2460937_2484095.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2460937_2484095.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay. So we're going to make these things first in the spreadsheet and then we're going to start planning how we're going to. How we're going to move to saving the data in the database and you being able to add it directly and back office and kind of eliminate the spreadsheet altogether.",
+    "Start": 2486995,
+    "End": 2505941,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2486995_2505941.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2486995_2505941.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Okay.",
+    "Start": 2506093,
+    "End": 2506865,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2506093_2506865.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2506093_2506865.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay. I think that's it for us.",
+    "Start": 2509005,
+    "End": 2512197,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2509005_2512197.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2509005_2512197.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Okay, great. Thank you so much.",
+    "Start": 2512341,
+    "End": 2514789,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2512341_2514789.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2512341_2514789.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "You're welcome. I'll just talk to Leah here.",
+    "Start": 2514917,
+    "End": 2518389,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2514917_2518389.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2514917_2518389.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Okay, thank you. Bye.",
+    "Start": 2518517,
+    "End": 2520425,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2518517_2520425.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2518517_2520425.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Bye. Bye. All right, I think we. Sharon, you still. I see Sharon's on.",
+    "Start": 2520765,
+    "End": 2529705,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2520765_2529705.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2520765_2529705.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "Sharon is on. I'm gonna do a brief introduction though, and then Sharon, you can drop off, so.",
+    "Start": 2529745,
+    "End": 2534009,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_2529745_2534009.wav",
+    "ExtractedSegmentName": "extracted_segment_C_2529745_2534009.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Okay.",
+    "Start": 2534177,
+    "End": 2534965,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2534177_2534965.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2534177_2534965.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "Liam, Sharon is one of my project managers and she'll be. I'll be including her and pretty much everything going forward. So Sharon, we can talk about the back office process later. You can drop off.",
+    "Start": 2536905,
+    "End": 2552569,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_2536905_2552569.wav",
+    "ExtractedSegmentName": "extracted_segment_C_2536905_2552569.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay.",
+    "Start": 2552737,
+    "End": 2553541,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2552737_2553541.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2552737_2553541.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "Okay. I'll call you in a minute.",
+    "Start": 2553713,
+    "End": 2556185,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_2553713_2556185.wav",
+    "ExtractedSegmentName": "extracted_segment_C_2553713_2556185.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Oh, you have help now?",
+    "Start": 2556885,
+    "End": 2558385,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2556885_2558385.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2556885_2558385.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "I have help.",
+    "Start": 2559125,
+    "End": 2560265,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2559125_2560265.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2559125_2560265.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "Also, I'm leaving. I'm giving my notice today.",
+    "Start": 2560605,
+    "End": 2563789,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_2560605_2563789.wav",
+    "ExtractedSegmentName": "extracted_segment_C_2560605_2563789.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Oh, really?",
+    "Start": 2563957,
+    "End": 2564905,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2563957_2564905.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2563957_2564905.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yes.",
+    "Start": 2566005,
+    "End": 2566865,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2566005_2566865.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2566005_2566865.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "So I haven't given it yet, but I want to give you a heads up because we'll probably have to set up a meeting so I can just kind of like get things organized. It will be. Would have been great to have helped before, but. Yeah, Sharon is one of my employees and she'll probably step into some of this stuff. So I want her to hop on this meeting just to kind of see how things go. But yes, I am leaving.",
+    "Start": 2568205,
+    "End": 2591105,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_2568205_2591105.wav",
+    "ExtractedSegmentName": "extracted_segment_C_2568205_2591105.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Nobody stays long in. In Els. I think Schmidt is like. Besides you and. And him are kind of like the last. The last people standing. I mean, Schmidt and there's like five different guys before Paul.",
+    "Start": 2591925,
+    "End": 2609087,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2591925_2609087.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2591925_2609087.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "I know.",
+    "Start": 2609271,
+    "End": 2610115,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_2609271_2610115.wav",
+    "ExtractedSegmentName": "extracted_segment_C_2609271_2610115.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Leah, this is Robin. I was just thinking to myself a moment before you said you're leaving that. Boy, Leah's really got her act together. She's got, you know, handling all this.",
+    "Start": 2611375,
+    "End": 2622359,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2611375_2622359.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2611375_2622359.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Stuff and got everything going on.",
+    "Start": 2622407,
+    "End": 2624515,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2622407_2624515.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2622407_2624515.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "Yeah, the niece is probably gonna kill me because I have a ton of stuff, but yeah.",
+    "Start": 2627095,
+    "End": 2630995,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_2627095_2630995.wav",
+    "ExtractedSegmentName": "extracted_segment_C_2627095_2630995.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yep.",
+    "Start": 2633985,
+    "End": 2634497,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2633985_2634497.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2633985_2634497.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "Just want to give you a heads up and we probably should wrap up some things, so we'll probably set something up. I'm going to talk to Denise this afternoon and let her know, and then we'll just go from there. I'll email you.",
+    "Start": 2634561,
+    "End": 2649245,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_2634561_2649245.wav",
+    "ExtractedSegmentName": "extracted_segment_C_2634561_2649245.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "So where are you going to go?",
+    "Start": 2650185,
+    "End": 2651685,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2650185_2651685.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2650185_2651685.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "There's a company called Bridge Industrial.",
+    "Start": 2652305,
+    "End": 2654845,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_2652305_2654845.wav",
+    "ExtractedSegmentName": "extracted_segment_C_2652305_2654845.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "What? What is that like. Is that like a totally different space?",
+    "Start": 2658345,
+    "End": 2662675,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2658345_2662675.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2658345_2662675.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "Not really. I mean, it's like commercial real estate industrial.",
+    "Start": 2663855,
+    "End": 2666631,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_2663855_2666631.wav",
+    "ExtractedSegmentName": "extracted_segment_C_2663855_2666631.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Okay.",
+    "Start": 2666743,
+    "End": 2667071,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2666743_2667071.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2666743_2667071.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay.",
+    "Start": 2667103,
+    "End": 2667519,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2667103_2667519.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2667103_2667519.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "Yeah. And they're private. They're not public.",
+    "Start": 2667607,
+    "End": 2670275,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_2667607_2670275.wav",
+    "ExtractedSegmentName": "extracted_segment_C_2667607_2670275.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay. Okay.",
+    "Start": 2672015,
+    "End": 2673275,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2672015_2673275.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2672015_2673275.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "So, yeah, I'll be their Director of Business, Intelligence and applications.",
+    "Start": 2674135,
+    "End": 2677995,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_2674135_2677995.wav",
+    "ExtractedSegmentName": "extracted_segment_C_2674135_2677995.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Well, if that doesn't work out, just always think about sending me an email because people ask us, because there's not a lot of people in the know how to use back office. So people ask us, hey, do you know anybody who knows how to use back office? And there's not a lot of them, let's just say, because most people are. They can't leave their companies because no one else knows how to run everything back off. Right. So.",
+    "Start": 2680615,
+    "End": 2713253,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2680615_2713253.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2680615_2713253.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yep.",
+    "Start": 2713349,
+    "End": 2713941,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2713349_2713941.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2713349_2713941.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "C",
+    "SpeakerText": "Okay. For sure.",
+    "Start": 2714053,
+    "End": 2715285,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_C_2714053_2715285.wav",
+    "ExtractedSegmentName": "extracted_segment_C_2714053_2715285.wav",
+    "SpeakerName": "Leah"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Yeah.",
+    "Start": 2715445,
+    "End": 2716185,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2715445_2716185.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2715445_2716185.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "All right.",
+    "Start": 2717405,
+    "End": 2718265,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2717405_2718265.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2717405_2718265.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "All right. Well, good luck.",
+    "Start": 2718845,
+    "End": 2720305,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2718845_2720305.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2718845_2720305.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Thank you.",
+    "Start": 2720725,
+    "End": 2721509,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2720725_2721509.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2720725_2721509.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Going forward.",
+    "Start": 2721637,
+    "End": 2722269,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2721637_2722269.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2721637_2722269.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Yeah.",
+    "Start": 2722357,
+    "End": 2722669,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2722357_2722669.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2722357_2722669.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Good luck.",
+    "Start": 2722717,
+    "End": 2723465,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2722717_2723465.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2722717_2723465.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "Thank you.",
+    "Start": 2724685,
+    "End": 2725585,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2724685_2725585.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2724685_2725585.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Okay, take care.",
+    "Start": 2726365,
+    "End": 2727469,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2726365_2727469.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2726365_2727469.wav",
+    "SpeakerName": "Liam"
+  },
+  {
+    "SpeakerLabel": "B",
+    "SpeakerText": "All right.",
+    "Start": 2727597,
+    "End": 2728373,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_B_2727597_2728373.wav",
+    "ExtractedSegmentName": "extracted_segment_B_2727597_2728373.wav",
+    "SpeakerName": "Unknown 1"
+  },
+  {
+    "SpeakerLabel": "A",
+    "SpeakerText": "Bye. Bye. Stop the recording.",
+    "Start": 2728549,
+    "End": 2733965,
+    "ExtractedSegmentPath": "C:\\Users\\Liam\\source\\repos\\AI Voice Transcript\\AI Voice Transcript\\AudioSegments\\extracted_segment_A_2728549_2733965.wav",
+    "ExtractedSegmentName": "extracted_segment_A_2728549_2733965.wav",
+    "SpeakerName": "Liam"
+  }
+]

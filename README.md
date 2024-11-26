@@ -131,5 +131,3 @@ C:\Users\Liam\Desktop\AudioComparison\
 - Displays transcription details and identified speaker labels.
 
 ---
-
-Let me know if you need further assistance!
